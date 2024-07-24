@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947259772810",
+    "project_id": "dermatechtion",
+    "storage_bucket": "dermatechtion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947259772810:android:e519c01c6ec4535a970273",
+        "android_client_info": {
+          "package_name": "com.example.dermatechtion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947259772810-ighed37fdpl0to1haine8cthnl9pmgcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermatechtion",
+            "certificate_hash": "a75ff34296d53c2e2d45855485cf5e72401e69fd"
+          }
+        },
+        {
+          "client_id": "947259772810-ti8chrp4tfkrhmoho7n18lv86i28idef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRuuExrBRVPS8FE1JZvySsAPK36uAmlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947259772810-ti8chrp4tfkrhmoho7n18lv86i28idef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
